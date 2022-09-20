@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sunnyside</title>
+</head>
+  <body>
+  <header>
+  <ul class="header-ul">
+    <li><a href="#">CONTACT</a></li>
+  <li><a href="#">Projects</a></li>
+  <li><a href="#">Services</a></li>
+  <li><a href="#">About</a></li>
+</ul>
+
+  
+    <div>
+      <div>
+        <h1>We are Creatives</h1>
+      
+      </div>
+    </header>
+
+      <div class="leftbox">
+        <div>
+          <h2>Transform your brand</h2>
+          <p>
+            We are a full-service creative agency specializing in helping brands
+            grow fast. Engage your clients through compelling visuals that do
+            most of the marketing for you.
+            <a href="#">LEARN MORE</a>
+          </p>
+        </div>
+        <div>
+          <img src="image-transform.jpg" alt="Transform" width="50%" />
+        </div>
+      </div>
+
+      <div class="cup">
+        <div>
+          <img src="image-stand-out.jpg" alt="image-stand-out" />
+        </div>
+
+        <div>
+          <h2>Stand out to the right audience</h2>
+          <p>
+            Using a collaborative formula of designers, researchers,
+            photographers, videographers, and copywriters, we'll build and
+            extend your brand in digital places.
+          </p>
+          <a href="#">LEARN MORE</a>
+        </div>
+      </div>
+      <div class="photo">
+        <div>
+          <img src="image-graphic-design.jpg" alt="image-graphic-design" />
+        </div>
+        <div><img src="image-photography.jpg" alt="full Orange" /></div>
+      </div>
+      <div class="talk">
+        <div>
+          <h3>Graphic Design</h3>
+          <p>
+            Great design makes you memorable. We deliver artwork that
+            underscores your brand message and captures potential clients'
+            attention.
+          </p>
+        </div>
+        <div>
+          <h3>Photography</h3>
+          <p>
+            Increase your credibility by getting the most stunning high quality
+            photos that improve your business image.
+          </p>
+        </div>
+      </div>
+      
+      <div class="ct"><h4>Client Testimonials</h4></div>
+      
+      <div class="container">
+        <div id="em-box">
+          <img src="image-emily.jpg" alt="image-emily" width="20%" />
+          <h4>
+            We put our trust in sunnyside and they delivered, making sure our
+            need were met and deadlines allways hit.
+          </h4>
+          <h4>Emily R.</h4>
+          <h5>Marketing Director</h5>
+        </div>
+
+        <div id="th-box">
+          <img src="image-thomas.jpg" alt="image-thomas" width="20%" />
+          <h4>
+            Sunnyside's enthusiasm cupled with their keen interest in our
+            brand's success made it a satisfying and enjoyable experience.
+          </h4>
+          <h4>Thomas S.</h4>
+          <h5>Chief Operating Officer</h5>
+        </div>
+
+        <div id="jn-box">
+          <img src="image-jennie.jpg" alt="image-jennie" width="20%" />
+          <h4>
+            Incredible end result! Our sales increased over 400% when we worked
+            with Sunnyside. Highly recommended!
+          </h4>
+          <h4>Jennie F.</h4>
+          <h5>Business Owner</h5>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="column">
+          <img
+            src="image-gallery-milkbottles.jpg"
+            alt="image-gallery-milkbottles"
+          />
+        </div>
+        <div class="column">
+          <img src="image-gallery-orange.jpg" alt="Orange" />
+        </div>
+        <div class="column">
+          <img src="image-gallery-cone.jpg" alt="cone" />
+        </div>
+        <div class="column">
+          <img src="image-gallery-sugarcubes.jpg" alt="Sugar-Cubes" />
+        </div>
+      </div>
+     
+    </div>
+  </body>
+  <footer>
+    <h3>sunnyside</h3>
+    <footer><a href="#">Projects</a></footer>
+    <footer><a href="#">Services</a></footer>
+    <footer><a href="#">About</a></footer> 
+    <div class="row">
+<div class="column" ><img src="icon-facebook.svg" alt="icon-facebook"></div>
+<div class="column" ><img src="icon-instagram.svg" alt="IG"></div>
+<div class="column" ><img src="icon-twitter.svg" alt="icon-twitter"></div>
+<div class="column" ><img src="icon-pinterest.svg" alt="icon-pinterest"></div>
+    </div>
+  </footer>
+</html>
